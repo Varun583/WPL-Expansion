@@ -4,3 +4,4 @@ This repository contains a project that reviews key performance indicators of th
 
 This repository contains a written report and Power BI file which contains the dashboard of several KPIs and visuals.
 
+![GIF](https://github.com/user-attachments/assets/b539a855-d009-40b0-9c83-05c8b920550f)
